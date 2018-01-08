@@ -1,0 +1,24 @@
+{
+  "name": "metiers_landingPage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metiers/metiers_landingPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metiers/metiers_landingPage/issues"
+  },
+  "homepage": "https://github.com/metiers/metiers_landingPage#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
